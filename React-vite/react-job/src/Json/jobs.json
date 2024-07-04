@@ -1,0 +1,240 @@
+{
+  "Brands": [
+    {
+      "id": "1",
+      "brand": "Puma",
+      "brandDescription": "Puma is a well-known brand specializing in sports and athletic wear. It offers a wide range of products, including running shoes, sneakers, and apparel.",
+      "product": "Running Shoes",
+      "description": "High-performance running shoes from Puma, designed for comfort and durability.",
+      "price": "$80.00"
+    },
+    {
+      "id": "2",
+      "brand": "Adidas",
+      "brandDescription": "Adidas is a global brand renowned for its sports and lifestyle products. It is known for its innovative designs and high-quality materials.",
+      "product": "Sneakers, Shoes, T-shirts",
+      "description": "Stylish sneakers from Adidas, featuring a modern design and excellent cushioning.",
+      "price": "$90.00"
+    },
+    {
+      "id": "3",
+      "brand": "Fastrack",
+      "brandDescription": "Fastrack is a popular brand offering trendy accessories and watches for the youth. It focuses on style, functionality, and affordability.",
+      "product": "Smartwatch",
+      "description": "Fastrack smartwatch with fitness tracking, heart rate monitor, and stylish design.",
+      "price": "$120.00"
+    },
+    {
+      "id": "4",
+      "brand": "Nike",
+      "brandDescription": "Nike is a leading brand in athletic footwear, apparel, and sports equipment. It is known for its innovative products and commitment to performance.",
+      "product": "Training Shorts",
+      "description": "Nike training shorts designed for optimal performance and breathability during workouts.",
+      "price": "$50.00"
+    },
+    {
+      "id": "5",
+      "brand": "Boat",
+      "brandDescription": "Boat is a lifestyle brand known for its audio products, including earphones, headphones, and speakers. It offers stylish and high-quality audio solutions.",
+      "product": "Wireless Earphones",
+      "description": "Boat wireless earphones with deep bass, Bluetooth connectivity, and long battery life.",
+      "price": "$40.00"
+    },
+    {
+      "id": "6",
+      "brand": "Casio",
+      "brandDescription": "Casio is a renowned brand in watches and electronic products. It offers a wide range of timepieces, calculators, and digital instruments.",
+      "product": "Digital Watch",
+      "description": "Casio digital watch with stopwatch, alarm, and water resistance features.",
+      "price": "$60.00"
+    },
+    {
+      "id": "7",
+      "brand": "Roadster",
+      "brandDescription": "Roadster is a fashion brand offering a wide range of clothing and accessories for men and women. It is known for its trendy designs and affordable prices.",
+      "product": "Men's Jeans",
+      "description": "Roadster men's jeans with a slim fit and stylish design, perfect for casual wear.",
+      "price": "$35.00"
+    },
+    {
+      "id": "8",
+      "brand": "Sony",
+      "brandDescription": "Sony is a multinational conglomerate known for its electronics, gaming, entertainment, and financial services. It offers a wide range of products, including TVs, audio devices, cameras, and gaming consoles.",
+      "product": "Wireless Headphones",
+      "description": "Sony wireless headphones with noise-cancellation and long-lasting battery life.",
+      "price": "$150.00"
+    },
+    {
+      "id": "9",
+      "brand": "JBL",
+      "brandDescription": "JBL is a well-known brand in audio equipment, specializing in speakers, headphones, and sound systems. It is known for its high-quality audio performance and durability.",
+      "product": "Portable Bluetooth Speaker",
+      "description": "JBL portable Bluetooth speaker with powerful sound and rugged design, ideal for outdoor use.",
+      "price": "$100.00"
+    },
+    {
+      "id": "10",
+      "brand": "Asus",
+      "brandDescription": "Asus is a multinational technology company known for its laptops, desktops, smartphones, and other electronic products. It is known for its innovative designs and high-performance hardware.",
+      "product": "Gaming Laptop",
+      "description": "Asus gaming laptop with high-performance hardware and immersive display, perfect for gaming enthusiasts.",
+      "price": "$1200.00"
+    },
+    {
+      "id": "11",
+      "brand": "Samsung",
+      "brandDescription": "Samsung is a global leader in technology, offering a wide range of products, including smartphones, tablets, TVs, home appliances, and semiconductors. It is known for its innovation, quality, and reliability.",
+      "product": "Smartphone",
+      "description": "Samsung smartphone with advanced camera features, long battery life, and sleek design.",
+      "price": "$800.00"
+    },
+    {
+      "id": "12",
+      "brand": "LG",
+      "brandDescription": "LG Electronics is a multinational electronics company known for its TVs, home appliances, smartphones, and other electronic products. It is known for its innovative technologies and stylish designs.",
+      "product": "4K Ultra HD TV",
+      "description": "LG 4K Ultra HD TV with vibrant colors, immersive sound, and smart TV features.",
+      "price": "$1000.00"
+    },
+    {
+      "id": "13",
+      "brand": "Fitbit",
+      "brandDescription": "Fitbit is a leading brand in fitness trackers and wearable devices. It offers products with advanced features for tracking activity, exercise, sleep, and heart rate.",
+      "product": "Fitness Tracker",
+      "description": "Fitbit fitness tracker with heart rate monitoring, activity tracking, and sleep analysis features.",
+      "price": "$120.00"
+    },
+    {
+      "id": "14",
+      "brand": "Lenovo",
+      "brandDescription": "Lenovo is a multinational technology company known for its laptops, desktops, tablets, smartphones, and other electronic products. It is known for its reliability, performance, and innovation.",
+      "product": "Laptop",
+      "description": "Lenovo laptop with powerful performance, long battery life, and lightweight design.",
+      "price": "$900.00"
+    },
+    {
+      "id": "15",
+      "brand": "Bose",
+      "brandDescription": "Bose Corporation is a leading brand in audio equipment, known for its high-quality speakers, headphones, and sound systems. It is known for its innovative audio technologies and premium sound quality.",
+      "product": "Noise-Cancelling Headphones",
+      "description": "Bose noise-cancelling headphones with immersive sound and comfortable design, perfect for travel.",
+      "price": "$300.00"
+    },
+    {
+      "id": "16",
+      "brand": "Timex",
+      "brandDescription": "Timex Group is a renowned watchmaking company known for its durable and affordable timepieces. It offers a wide range of watches for men and women, featuring classic designs and modern functionalities.",
+      "product": "Analog Watch",
+      "description": "Timex analog watch with classic design, durable construction, and water resistance.",
+      "price": "$50.00"
+    }
+  ],
+  "Products": [
+    {
+      "id": "1",
+      "title": "Puma Sneakers",
+      "description": "Explore our latest collection of Puma sneakers, designed for both style and performance.",
+      "price": "$80 - $120"
+    },
+    {
+      "id": "2",
+      "title": "Nike Running Shoes",
+      "description": "Discover our latest Nike running shoes, engineered for speed and comfort.",
+      "price": "$100 - $150",
+      "link": "/nike-products"
+    },
+    {
+      "id": "3",
+      "title": "Adidas Apparel",
+      "description": "Check out our stylish Adidas apparel, perfect for both workouts and casual wear.",
+      "price": "$50 - $100",
+      "link": "/adidas-products"
+    }
+  ],
+  "User": [
+    {
+      "id": "1",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2a64",
+      "username": "BRO1003",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "Aswin@117"
+    },
+    {
+      "id": "7ad5",
+      "username": "BRO1003",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "zcxczx"
+    },
+    {
+      "id": "c4a6",
+      "username": "aswin.shaji",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "lkjhgfdsa"
+    },
+    {
+      "id": "e5a7",
+      "username": "aswin.shaji",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "lkjhgfdsa"
+    },
+    {
+      "id": "3b7a",
+      "username": "aswin.shaji",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "lkjhgfdsa"
+    },
+    {
+      "id": "e273",
+      "username": "BRO1003",
+      "email": "dfssfd@gmail.com",
+      "password": "lkjhgfdsa"
+    },
+    {
+      "id": "4b42",
+      "username": "BRO1003",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "lkjhgfdsa@123"
+    },
+    {
+      "id": "6144",
+      "username": "aswin.shaji",
+      "email": "aswinshajilias17@gmail.com",
+      "password": "ajsdjkad"
+    },
+    {
+      "id": "af33",
+      "username": "BRO1003",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "laaaa"
+    },
+    {
+      "id": "c634",
+      "username": "kermit",
+      "email": "aswinshajilias1217@gmail.com",
+      "password": "Aswin@123"
+    },
+    {
+      "id": "472a",
+      "username": "aswin.shaji",
+      "email": "aswin117@gmail.com",
+      "password": "Aswin@117"
+    },
+    {
+      "id": "89c6",
+      "username": "BRO1003",
+      "email": "dfssfd@gmail.com",
+      "password": "Aswin@117"
+    },
+    {
+      "id": "a117",
+      "username": "BRO1003",
+      "email": "aswinshajilias117@gmail.com",
+      "password": "Aswin@117"
+    }
+  ]
+}
