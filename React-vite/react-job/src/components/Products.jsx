@@ -11,7 +11,7 @@ function Products() {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const response = await fetch('http://localhost:5467/Brands');
+        const response = await fetch('http://localhost:5467/Products');
         const data = await response.json();
         // setProducts(data);
         dispatch(setProducts(data))
